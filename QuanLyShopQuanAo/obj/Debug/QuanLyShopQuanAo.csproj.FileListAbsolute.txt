@@ -1,0 +1,69 @@
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csprojResolveAssemblyReference.cache
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.GenerateResource.cache
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Login.resources
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Main.resources
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.UserInfo.resources
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_User.resources
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_Product.resources
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_Home.resources
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.dll
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.xml
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_DemoAddPic.resources
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Test.resources
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_AddProduct.resources
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.ProductInfo_Guest.resources
+D:\Work place\C#\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.ProductInfo_Staff.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_AddProduct.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_Home.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_Product.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_User.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_DemoAddPic.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Main.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Login.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.ProductInfo_Guest.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.ProductInfo_Staff.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Test.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.UserInfo.resources
+C:\Users\Admin\Desktop\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.GenerateResource.Cache
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.dll
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.xml
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csprojResolveAssemblyReference.cache
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_AddProduct.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_Home.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_Product.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_User.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Form_DemoAddPic.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Main.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Login.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.ProductInfo_Guest.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.ProductInfo_Staff.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Test.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.UserInfo.resources
+D:\Deaths\SLQ2\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.GenerateResource.Cache
